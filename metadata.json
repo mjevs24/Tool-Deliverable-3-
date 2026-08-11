@@ -1,0 +1,6 @@
+{
+  "name": "Clicks & Clinicians Session Reflection",
+  "description": "A calm, warm, and structured deterministic session reflection tool for clinicians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
